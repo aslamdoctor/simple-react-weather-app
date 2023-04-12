@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Update API key inside `.env` file
+
+Go to [openweathermap.org](https://www.openweathermap.org) and get your API keys. Put it under `.env` file where it says `your api key`
+
 ## Available Scripts
 
 In the project directory, you can run:
